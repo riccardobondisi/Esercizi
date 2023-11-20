@@ -1,6 +1,6 @@
 """
 
-Given two numbers x and y (no matter if integer or float) compute and print out how many times
+6) Given two numbers x and y (no matter if integer or float) compute and print out how many times
 x has to be doubled to get a value that exceeds y.
 
 
